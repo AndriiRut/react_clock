@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,WACE,YAAa,CACb,kBAAmB,CAEnB,oBACE,aAAc","file":"main.64ffd168.chunk.css","sourcesContent":["// styles go here\n.clock-box {\n  display: flex;\n  flex-direction: row;\n\n  &__contetn {\n    display: block;\n  }\n}\n"]}
